@@ -2,127 +2,149 @@
 
 <div align="center">
 
-![Header Image](https://vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,100:1C1C2A&height=220&section=header&text=ArthSaathi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Smart%20Financial%20Friend&descAlignY=58&descAlign=50"/>
 
-[![Status](https://shields.io)](https://github.com)
-[![Stars](https://shields.io)](https://github.com/stargazers)
-[![License](https://shields.io)](https://opensource.org)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)](#)
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](#)
+[![Made With Love](https://img.shields.io/badge/Made%20With-HTML%20CSS%20JS-orange?style=for-the-badge)](#)
 
 ### 🚀 Smart. Elegant. Personalized.  
-**Your Modern AI Dashboard for Intelligent Wealth Management.**
+### **Your Modern AI Dashboard for Intelligent Wealth Management**
 
-[View Demo](#) • [Report Bug](https://github.com/issues) • [Request Feature](https://github.com/issues)
+[🌐 Live Demo](#) • [🐛 Report Bug](#) • [✨ Request Feature](#)
 
 </div>
 
 ---
 
-## 📌 Overview
-**ArthSaathi** is a premium AI-powered financial ecosystem designed to help users manage money with precision. It transforms scattered data into **actionable insights** using a luxury SaaS-style interface. 
+# 📌 Overview
 
-Whether you're tracking daily coffee expenses or planning long-term investment goals, ArthSaathi acts as your **"Smart Friend"** for financial freedom.
+**ArthSaathi** is a premium AI-powered financial ecosystem designed to simplify personal finance through modern technology and elegant design.
+
+It helps users:
+
+- Track expenses smartly  
+- Build saving habits  
+- Set financial goals  
+- Get AI-powered guidance  
+- Analyze money patterns  
+- Stay financially disciplined  
+
+ArthSaathi transforms confusing numbers into **clear actions and smarter decisions**.
 
 ---
 
-## 📸 Visual Tour
+# 📸 Visual Experience
 
 <div align="center">
 
 ### 🖥️ Main Dashboard
-*A high-fidelity view of your total financial health.*
-![Dashboard Preview](https://placeholder.com)
 
+<img src="https://via.placeholder.com/900x450/0E0E1A/C9A84C?text=ArthSaathi+Dashboard+Preview"/>
 
-| **AI Advisor Chat** | **Goal Progress** |
+<br>
+
+| 🤖 AI Advisor | 🎯 Goal Tracker |
 |:---:|:---:|
-| ![Chat](https://placeholder.com) | ![Goals](https://placeholder.com) |
+| <img src="https://via.placeholder.com/420x250/151520/C9A84C?text=AI+Advisor"/> | <img src="https://via.placeholder.com/420x250/151520/C9A84C?text=Goal+Tracker"/> |
 
 </div>
 
 ---
 
-## ✨ Core Features
+# ✨ Core Features
 
-### 🧠 Intelligent Analytics
-- **Financial Health Score:** Real-time pulse check of your savings vs. spending.
-- **Investment Readiness:** Proprietary logic to tell you when to start investing.
-- **Visual Analytics:** Interactive charts powered by **Chart.js**.
+## 🧠 Intelligent Dashboard
 
-### 💸 Professional Expense Engine
-- **Category Intelligence:** Automatically group spending for deep insights.
-- **Data Persistence:** Optimized **LocalStorage** sync — your data stays private and stays put.
-- **Daily Alerts:** Visual cues when approaching your budget limits.
+- Financial Health Score  
+- Income vs Expense Tracking  
+- Savings Growth Monitoring  
+- Investment Readiness Indicator  
+- Daily Insights  
 
-### 🤖 AI Financial Advisor
-Ask anything from *"Should I save or invest?"* to *"Plan a budget for a new car."*
-- **Context-Aware:** Analyzes your dashboard data to give real answers.
-- **Simple Logic:** Breaks down complex tax and SIP terms into plain English.
+## 💸 Smart Expense Engine
 
-### 🔥 Habit & Goal Systems
-- **Goal Planner:** Progress bars for buying a house, car, or emergency funds.
-- **Habit Builder:** Streaks for "No-Spend" days and saving targets.
+- Add Income / Expense  
+- Category Tracking  
+- Daily Spending Alerts  
+- Delete Transactions  
+- Budget Warnings  
+
+## 🤖 AI Financial Advisor
+
+Ask:
+
+- SIP or FD?  
+- Save or Invest?  
+- How to reduce expenses?  
+- Monthly budget plan?  
+
+Returns:
+
+- Decision  
+- Reason  
+- Steps  
+
+## 🎯 Goal Planner
+
+Create goals like:
+
+- House  
+- Car  
+- Laptop  
+- Emergency Fund  
+- Travel  
+
+Includes:
+
+- Progress Bars  
+- Monthly Tracking  
+- Goal Status  
+
+## 🔥 Habit Builder
+
+- Saving Streak  
+- No Spend Challenge  
+- Budget Discipline  
+- Motivation Tracker  
+
+## 📰 Finance News Hub
+
+- Market News  
+- Tax Updates  
+- Savings Tips  
+- Investment Trends  
 
 ---
 
-## 🛠️ Tech Stack
+# 🎨 Premium UI Highlights
 
-<div align="center">
+- Dark Luxury Theme  
+- Gold Accent Design  
+- Glassmorphism Cards  
+- Smooth Animations  
+- Fully Responsive  
+- Clean SaaS Layout  
 
+---
+
+# 🛠️ Tech Stack
 
 | Technology | Purpose |
-| :--- | :--- |
-| <img src="https://skillicons.dev" /> | **Semantic Structure** |
-| <img src="https://skillicons.dev" /> | **Luxury Glassmorphism UI** |
-| <img src="https://skillicons.dev" /> | **Dynamic Logic & AI Simulation** |
-| <img src="https://skillicons.dev" /> | **Data Visualization** |
-| <img src="https://skillicons.dev" /> | **UX/UI Design** |
-
-</div>
-
----
-
-## 🚀 Installation & Setup
-
-1. **Clone the Project**
-   ```bash
-   git clone https://github.com.git
-   ```
-2. **Navigate to Directory**
-   ```bash
-   cd arthsaathi
-   ```
-3. **Run Locally**
-   - Simply open `index.html` in your browser.
-   - **Pro Tip:** Use the [Live Server](https://visualstudio.com) extension in VS Code for hot-reloads.
+|-----------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Logic |
+| Chart.js | Charts |
+| Local Storage | Data Save |
+| Google Auth | Login |
 
 ---
 
-## 📂 Project Structure
-```text
-ArthSaathi/
-├── index.html           # Main Entry Point
-├── assets/
-│   ├── css/             # Luxury Dark Theme Styles
-│   ├── js/              # AI Logic & Chart Configs
-│   └── vendor/          # Chart.js & External Libs
-├── images/              # Screen Captures & Icons
-└── README.md            # Documentation
-```
+# 🚀 Installation & Setup
 
----
+## 1️⃣ Clone Repository
 
-## 👨‍💻 Developed By
-**Aryan Yadav**
-*B.Tech CSE Student | AI & Product Enthusiast*
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfolio](https://shields.io)](https://yourportfolio.com)
-
----
-
-## ⭐ Support the Project
-If ArthSaathi helped you manage your money better, please consider giving this repository a **Star**! 🌟
-
----
-
-**🔥 ArthSaathi – Because Money Needs a Smart Friend.**
+```bash
+git clone https://github.com/yourusername/arthsaathi.git

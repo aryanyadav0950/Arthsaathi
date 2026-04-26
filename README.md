@@ -157,3 +157,103 @@ ArthSaathi/
 │── assets/
 │── images/
 │── README.md
+
+# 🚀 ArthSaathi – Your Intelligent Financial Companion
+
+ArthSaathi is a smart personal finance management platform. It is designed to help users track, manage, and grow their wealth with AI-driven insights. ArthSaathi acts as a "Smart Friend" for money.
+
+---
+
+## 💡 Why ArthSaathi?
+
+ArthSaathi focuses on:
+
+*   ✅ **Guidance:** Actionable financial advice.
+*   ✅ **Insights:** Visualizing where your money goes.
+*   ✅ **Goals:** Tracking milestones, not just balances.
+*   ✅ **Habits:** Encouraging better spending patterns.
+*   ✅ **AI Decision Support:** Helping you make smarter choices.
+
+---
+
+## 📸 Preview Sections
+
+
+| Section             | Description                                          |
+| :------------------ | :--------------------------------------------------- |
+| **Hero Landing Page** | Elegant entry point showcasing core features.        |
+| **Finance Dashboard** | Overview of net worth, income, and expenses.         |
+| **Goals Tracker**   | Visual progress bars for financial milestones.        |
+| **AI Advisor Chat** | Interactive interface for financial queries.         |
+| **News Hub**          | Stay updated with real-time market trends.           |
+| **Expense Manager**   | Easy-to-use logging and categorization.            |
+| **Authentication**    | Secure login and signup modals.                     |
+
+---
+
+## 🚀 How to Run
+
+### Option 1: Local Clone
+
+1.  Clone the repository:
+
+    ```bash
+    git clone https://github.com
+    ```
+2.  Navigate to the folder:
+
+    ```bash
+    cd arthsaathi
+    ```
+3.  Open the project:
+
+    ```bash
+    open index.html
+    ```
+
+### Option 2: VS Code Live Server
+
+1.  Open the folder in **VS Code**.
+2.  Right-click on `index.html`.
+3.  Select **"Open with Live Server"**.
+
+---
+
+## 🧠 Future Enhancements
+
+*   🤖 **Real AI API Integration:** Powered by Gemini or OpenAI.
+*   📈 **Expense Prediction:** Machine learning to forecast future spending.
+*   🧮 **Financial Tools:** Loan EMI and Tax Saving calculators.
+*   🎙️ **Voice Assistant:** Hands-free expense logging.
+*   🌍 **Localization:** Support for regional languages.
+*   📱 **Mobile Version:** Dedicated Android/iOS application.
+
+---
+
+## 👨‍💻 Developer
+
+**Aryan Yadav**
+
+*B.Tech CSE Student*
+
+Passionate about AI, Development, and building Real-World Products.
+
+---
+
+## ⭐ Support & Contributing
+
+If you find this project helpful:
+
+*   🌟 **Star** this repository
+*   🍴 **Fork** it to add your own features
+*   📢 **Share** it with others
+
+---
+
+## 📜 License
+
+Open Source – Created for Learning & Showcase purposes.
+
+---
+
+**🔥 ArthSaathi – Because Money Needs a Smart Friend.**
